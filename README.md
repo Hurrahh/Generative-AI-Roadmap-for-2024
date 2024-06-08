@@ -1,4 +1,4 @@
-_# Generative-AI-Roadmap-for-2024
+# Generative-AI-Roadmap-for-2024
 
 ## Start from Generative AI
 You can start with Generative AI without learning DATA SCIENCE and its Prerequisites (Machine Learning, Deep Learning, Neural Network)
