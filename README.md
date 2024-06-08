@@ -1,7 +1,7 @@
-# Generative-AI-Roadmap-for-2024
+_# Generative-AI-Roadmap-for-2024
 
 ## Start from Generative AI
-You can directly Start Generative AI without learning DATA SCIENCE and its Prerequisites (Machine Learning, Deep Learning, Neural Network)
+You can start with Generative AI without learning DATA SCIENCE and its Prerequisites (Machine Learning, Deep Learning, Neural Network)
 
 ### 1. Python Programming Language 
 **Python Documentation:**  https://docs.python.org/3/   
@@ -20,15 +20,16 @@ You can refer more videos on Youtube about Generative AI and its frameworks (Lan
 
 
 ### 3. Learn to call API
-   **OpenAI Documentation:** https://platform.openai.com/docs/quickstart 
-   **Get your Gemini Api key:**  https://aistudio.google.com/app/apikey           
-    After Getting API key refer to the documentation            
-   **Google Gemini documentation:** https://ai.google.dev/gemini-api/docs/quickstart?lang=python
+   **OpenAI Documentation:** https://platform.openai.com/docs/quickstart                  
+   **Google Gemini documentation:** https://ai.google.dev/gemini-api/docs/quickstart?lang=python       
+   See OpenAI and Google_Gemini folder to know how to call their api ad generate response
     
 ### 3. Generative AI framework LangChain
    **LangChain Documentation:** https://python.langchain.com/v0.2/docs/introduction/          
    
    **LangChain Playlist**
     Visit: https://www.youtube.com/watch?v=KmQOlg5YfU0&list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ&pp=gAQBiAQB
-    
-    
+
+After completing all his try doing projects 
+Explore about RAG, Crew AI, HuggingFace
+Work with more LLM models - Ollama, Claude, MistralAI, Azure, etc
