@@ -22,9 +22,9 @@ You can refer more videos on Youtube about Generative AI and its frameworks (Lan
 ### 3. Learn to call API
    **OpenAI Documentation:** https://platform.openai.com/docs/quickstart                  
    **Google Gemini documentation:** https://ai.google.dev/gemini-api/docs/quickstart?lang=python       
-   See OpenAI and Google_Gemini folder to know how to call their api ad generate response
+   See OpenAI and Google_Gemini folder to know how to call their api and generate response
     
-### 3. Generative AI framework LangChain
+### 4. Generative AI framework LangChain
    **LangChain Documentation:** https://python.langchain.com/v0.2/docs/introduction/          
    
    **LangChain Playlist**
