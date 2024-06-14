@@ -3,33 +3,55 @@
 ## Start from Generative AI
 You can start with Generative AI without learning DATA SCIENCE and its Prerequisites (Machine Learning, Deep Learning, Neural Network)
 
-### 1. Python Programming Language 
-**Python Documentation:**  https://docs.python.org/3/   
+## 1. Python Programming Language 
+1. **Python Documentation:**  https://docs.python.org/3/   
 
-**Complete Python Playlist**         
-  Visit:   https://youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0&si=F1RNvFCumWtCBQj-                
-  Visit:   https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v
-
-
-### 2. Clear Your Basics First
-
-What is Generative AI and about LLM Models:   https://youtu.be/LFs2z7UUDJU?feature=shared      
-About LangChain, Vector Databases and Embeddings:   https://youtu.be/DcNxg61kSFc?feature=shared    
-
-You can refer more videos on Youtube about Generative AI and its frameworks (LangChain, Chainlit, more about vector databases and LLM model deployment)
+2. **Complete Python Playlist**         
+    1. Visit:   https://youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0&si=F1RNvFCumWtCBQj-                
+    2. Visit:   https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v
 
 
-### 3. Learn to call API
-   **OpenAI Documentation:** https://platform.openai.com/docs/quickstart                  
-   **Google Gemini documentation:** https://ai.google.dev/gemini-api/docs/quickstart?lang=python       
-   See OpenAI and Google_Gemini folder to know how to call their api and generate response
+## 2. Clear Your Basics First
+
+1. What is Generative AI and about LLM Models:   https://youtu.be/LFs2z7UUDJU?feature=shared      
+2. About LangChain, Vector Databases and Embeddings:   https://youtu.be/DcNxg61kSFc?feature=shared    
+3. Retrieval Augmented System (RAG) - https://youtu.be/u47GtXwePms?feature=shared
+
+You can refer more videos on Youtube about Generative AI and its frameworks (LangChain, LLamaIndex, Chainlit, more about vector databases and LLM model deployment)
+
+
+## 3. Learn to call API
+   1. **OpenAI Documentation:** https://platform.openai.com/docs/quickstart                  
+   2. **Google Gemini documentation:** https://ai.google.dev/gemini-api/docs/quickstart?lang=python
+      
+Check out OpenAI and Google_Gemini folder to know how to call their api and generate response
     
-### 4. Generative AI framework LangChain
-   **LangChain Documentation:** https://python.langchain.com/v0.2/docs/introduction/          
+## 4. Generative AI framework LangChain and LLamaIndex
+   1. **LangChain Documentation:** https://python.langchain.com/v0.2/docs/introduction/           
+   2. **LLamaIndex Documentation:** https://docs.llamaindex.ai/en/stable/
    
-   **LangChain Playlist**
-    Visit: https://www.youtube.com/watch?v=KmQOlg5YfU0&list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ&pp=gAQBiAQB
+   3. **LangChain Playlist**            
+    Visit: https://www.youtube.com/watch?v=KmQOlg5YfU0&list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ&pp=gAQBiAQB           
 
-After completing all his try doing projects 
-Explore about RAG, Crew AI, HuggingFace
-Work with more LLM models - Ollama, Claude, MistralAI, Azure, etc
+  4. **LLamaIndex Playlist**             
+  Visit: https://youtube.com/playlist?list=PLBSCvBlTOLa-vUt7mCECzaJjJEjos6K-l&feature=shared          
+
+  
+## 5. Generative AI projects               
+1. Visit: https://youtube.com/playlist?list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar&feature=shared
+
+### Know The Difference LANGCHAIN -- LLAMAINDEX
+  1. Article: https://lmy.medium.com/comparing-langchain-and-llamaindex-with-4-tasks-2970140edf33          
+  2. Visit: https://youtu.be/1eym7BTnuNg?feature=shared
+  
+ 
+
+After completing all his try doing projects Like Summarizer, Chatbot, RAG Q/A chatbot, etc           
+Explore more about RAG, Crew AI, HuggingFace - https://huggingface.co/models           
+Work with more LLM models 
+
+
+## Open Source LLM Models - LLama2, Falcon, BERT, T5, GPT2
+## Paid LLM Models - OpenAI, GEMINI-pro, Claude, Cohere, Mistral                        
+                      
+
