@@ -24,7 +24,11 @@ You can refer more videos on Youtube about Generative AI and its frameworks (Lan
    1. **OpenAI Documentation:** https://platform.openai.com/docs/quickstart                  
    2. **Google Gemini documentation:** https://ai.google.dev/gemini-api/docs/quickstart?lang=python
       
-Check out OpenAI and Google_Gemini folder to know how to call their api and generate response
+Check out OpenAI and Google_Gemini folder to know how to call their api and generate response           
+
+### Know The Difference LANGCHAIN -- LLAMAINDEX
+  1. Article: https://lmy.medium.com/comparing-langchain-and-llamaindex-with-4-tasks-2970140edf33          
+  2. Visit: https://youtu.be/1eym7BTnuNg?feature=shared
     
 ## 4. Generative AI framework LangChain and LLamaIndex
    1. **LangChain Documentation:** https://python.langchain.com/v0.2/docs/introduction/           
@@ -39,12 +43,7 @@ Check out OpenAI and Google_Gemini folder to know how to call their api and gene
   
 ## 5. Generative AI projects               
 1. Visit: https://youtube.com/playlist?list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar&feature=shared
-
-### Know The Difference LANGCHAIN -- LLAMAINDEX
-  1. Article: https://lmy.medium.com/comparing-langchain-and-llamaindex-with-4-tasks-2970140edf33          
-  2. Visit: https://youtu.be/1eym7BTnuNg?feature=shared
-  
- 
+   
 
 After completing all his try doing projects Like Summarizer, Chatbot, RAG Q/A chatbot, etc           
 Explore more about RAG, Crew AI, HuggingFace - https://huggingface.co/models           
